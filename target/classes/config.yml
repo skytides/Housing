@@ -1,9 +1,0 @@
-# Housing Plugin Configuration
-
-spawn:
-  radius: 7.0  # Radius to determine if a player is within the spawn area, Change this according to your needs
-  locations: {}
-
-bridge:
-  radius: 50.0  # Radius to determine if a player is near a bridge location, Change this according to your needs
-  locations: {}
