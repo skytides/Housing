@@ -7,4 +7,8 @@ This plugin was developed in response to a request from a friend who operates a 
 - Data saving
 - Lightweight
 
+# Commands
+- "/housing setspawn <name>" - Sets the spawn for the housing platform.
+- "/housing setbridge <name>" - Sets the bridge for the housing platform.
+
 PS: If this gets 10 stars i'll add a scoreboard system like dewier's housing.
