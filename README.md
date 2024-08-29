@@ -7,7 +7,7 @@ This plugin was developed in response to a request from a friend who operates a 
 - Data saving
 - Lightweight
 
-# Commands
+# Setup
 - "/housing setspawn <name>" - Sets the spawn for the housing platform.
 - "/housing setbridge <name>" - Sets the bridge for the housing platform.
 
